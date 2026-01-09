@@ -6809,6 +6809,7 @@ https://daylerees.com/rss/
 https://dayson.io/atom.xml
 https://dayvster.com/rss.xml
 https://dayzerosec.com/feed.xml
+https://dazenikulasson.com/rss/
 https://dazne.net/feed/
 https://dbader.org/rss
 https://dbafromthecold.com/atom/
